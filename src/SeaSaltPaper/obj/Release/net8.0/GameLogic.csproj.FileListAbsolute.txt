@@ -1,0 +1,14 @@
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\bin\Release\net8.0\GameLogic.deps.json
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\bin\Release\net8.0\GameLogic.runtimeconfig.json
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\bin\Release\net8.0\GameLogic.dll
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\bin\Release\net8.0\GameLogic.pdb
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.csproj.AssemblyReference.cache
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.AssemblyInfoInputs.cache
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.AssemblyInfo.cs
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.csproj.CoreCompileInputs.cache
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.dll
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\refint\GameLogic.dll
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.pdb
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\GameLogic.genruntimeconfig.cache
+D:\sem6\ppo\lab4\ppo\src\SeaSaltPaper\SeaSaltPaper\obj\Release\net8.0\ref\GameLogic.dll

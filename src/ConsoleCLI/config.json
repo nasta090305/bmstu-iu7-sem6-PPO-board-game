@@ -1,0 +1,20 @@
+{
+    "Serilog": {
+        "MinimumLevel": {
+            "Default": "Information"
+        },
+        "WriteTo": [
+            {
+                "Name": "File",
+                "Args": {
+                    "path": "Logs\\app.log",
+                    "rollingInterval": "Day",
+                    "outputTemplate": "{Level}{NewLine}"
+                }
+            }
+        ]
+    },
+    "ConnectionStrings": {
+        "DefaultConnection": "Host=localhost;Port=5432;Database=SeaSaltPaper;Username=postgres;Password=Postgres"
+    }
+}
